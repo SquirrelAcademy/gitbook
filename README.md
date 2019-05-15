@@ -8,7 +8,8 @@
 
 ## 课程体系
 
-**Spart快速大数据处理 <button class="section" target="spark" show="详情" hide="收起"></button>**
+**Spark 快速大数据处理 <button class="section" target="spark" show="详情" hide="收起"></button>**
+([课程地址](https://edu.csdn.net/course/detail/24205))
 
  <!--sec data-title="详情" data-id="spark" data-show=false ces-->
 
